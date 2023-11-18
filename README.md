@@ -7,7 +7,7 @@ Table of Contents:
 
 2. Requirements
 
-3, Contributing
+3. Contributing
 
 4. License
 
