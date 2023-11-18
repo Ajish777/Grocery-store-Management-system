@@ -31,7 +31,7 @@ MySQL database
 
 MySQL Connector for Python (install using pip install mysql-connector)
 
-Contributing"
+Contributing:
 
 Contributions to this project are welcome. If you have suggestions for improvement or would like to add new features, feel free to submit a pull request.
 
