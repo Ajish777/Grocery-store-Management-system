@@ -1,17 +1,17 @@
 # Grocery-store-Management-system
 The Grocery Shop Management System is a Python-based project developed in version 3.6 of the programming language. It utilizes a MySQL database to efficiently store and manage records related to Customers, Products, and Workers in a grocery store setting.
 
-Table of Contents
+Table of Contents:
 
-Features
+1. Features
 
-Requirements
+2. Requirements
 
-Contributing
+3, Contributing
 
-License
+4. License
 
-Features
+Features:
 
 User Authentication: Secure login ensures that only authorized users can access and manage grocery store data.
 
@@ -23,7 +23,7 @@ Dynamic Record Retrieval: Users can retrieve specific records by entering custom
 
 Database Connectivity: The project establishes a connection to a MySQL database, facilitating seamless storage and retrieval of information, and enhancing grocery store management efficiency.
 
-Requirements
+Requirements:
 
 Python 3.6 or later
 
@@ -31,10 +31,10 @@ MySQL database
 
 MySQL Connector for Python (install using pip install mysql-connector)
 
-Contributing
+Contributing"
 
 Contributions to this project are welcome. If you have suggestions for improvement or would like to add new features, feel free to submit a pull request.
 
-License
+License:
 
 This project is licensed under the MIT License.
